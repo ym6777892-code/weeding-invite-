@@ -1,11 +1,11 @@
 /* ==========================================================================
-   Shihab & Reem — wedding invitation
+   Shehab & Reem — wedding invitation
    1) Edit weddingData below. 2) Everything else works automatically.
    ========================================================================== */
 
 const weddingData = {
   groomName: "شهاب",
-  groomNameEn: "Shihab",
+  groomNameEn: "Shehab",
   brideName: "ريم",
   brideNameEn: "Reem",
   weddingDate: "12-12",          // DD-MM
